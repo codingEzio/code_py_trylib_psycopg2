@@ -1,3 +1,7 @@
+### Material
+- [The *psycopg2* tutorial I'm reading right now](http://initd.org/psycopg/docs/usage.html)
+- [TOC of Official documentation of *psycopg2*](http://initd.org/psycopg/docs/index.html)
+
 ### Read soure code
 
 - Get it
